@@ -99,13 +99,7 @@
 
 	// Header (narrower + mobile).
 
-		// Toggle.
-			$(
-				'<div id="headerToggle">' +
-					'<a href="#header" class="toggle"></a>' +
-				'</div>'
-			)
-				.appendTo($body);
+		
 
 		// Header.
 			$('#header')
